@@ -1,5 +1,6 @@
 
 
+// spec: https://github.com/promises-aplus/promises-spec
 var Q = require('./q');
 
 
